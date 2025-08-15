@@ -1,26 +1,51 @@
-<h1 align="center">Hi, I'm <a href="https://gonzalo-pascual.github.io/" target="_blank">Gonzalo</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I'm <a href="https://gonzalo-pascual.github.io/" target="_blank">Gonzalo</a>!</h1>
 
 <img width="2214" height="620" alt="Frame 8" src="https://github.com/user-attachments/assets/315ee78c-d1b9-4e4f-83c3-0818d37fa9c2" />
 
 <span></span>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/www.linkedin.com/in/gonzalo-pasr/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Gonzalo-Pascual)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gonzalo.pascualromero@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gonzalo-pasr/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@gonzalo.pascualromero) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gonzalo.pascualromero@gmail.com) 
 ### Im a professional software developer with a strong interest in continuous learning. I am constantly training in new technologies and tools to improve my skills, while staying up to date on relevant threats and industry trends.
 
 ## Skills
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<p align="center">
+### Programming
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+
+### Cybersecurity
+![Static Badge](https://img.shields.io/badge/Ethical%20Hacking%20-%20%23c83f39)
+![Static Badge](https://img.shields.io/badge/Forensic%20-%20%231f59b2)
+![Static Badge](https://img.shields.io/badge/Blue%20Team%20-%20%231f59b2)
+![Static Badge](https://img.shields.io/badge/Regulations%20-%20%2329903b)
+![Static Badge](https://img.shields.io/badge/Secure%20deployment-%20%2329903b)
+
+
+
+### Tools
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+![Static Badge](https://img.shields.io/badge/Burp%20Suite%20-%20orange)
+
+
+
+
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzalo-Pascual&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="180">
 </p>
 
 
 
-## Proyects
+## Some proyects
 
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
@@ -34,10 +59,6 @@
   <a href="https://github.com/Gonzalo-Pascual/DAM/tree/main/SGE/Odoo-GonzaloPascualRomero">
     <img src="https://github.com/user-attachments/assets/f00d1eb4-3beb-4a6e-9d6c-61949016e82e" width="480" style="margin: 20px 0;" alt="Odoo Inglés">
   </a>
-
-  <a href="https://github.com/Gonzalo-Pascual/DAM/tree/main/Acceso%20a%20Datos/FinalBBDD-Hibernate_GonzaloPascualRomero">
-    <img src="https://github.com/user-attachments/assets/58fa81e2-8ad0-4c72-8200-cb5c49930e2a" width="480" style="margin: 20px 0;" alt="BBDD Inglés">
-  </a>
   </div>
 
   <!-- Column Cybersecurity -->
@@ -49,10 +70,6 @@
 
   <a href="https://github.com/Gonzalo-Pascual/Ciberseguridad/tree/main/Hacking%20%C3%89tico/Practicas">
     <img src="https://github.com/user-attachments/assets/b15be905-27fb-408c-a4cd-75fd78437002" width="480" style="margin: 20px 0;" alt="Atenea Inglés">
-  </a>
-
-  <a href="https://github.com/Gonzalo-Pascual/Ciberseguridad/tree/main/Incidentes%20de%20ciberseguridad">
-    <img src="https://github.com/user-attachments/assets/4f1ab725-c5e2-48dc-96f6-a26f7a2dfdfc" width="480" style="margin: 20px 0;" alt="Phishing Inglés">
   </a>
 </div>
 
