@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I’m Gonzalo, a professional with a strong interest in continuous learning and development. I am constantly training in new technologies and tools to refine my skills, while staying up to date on relevant threats and industry trends.
 
 <!--
 **Gonzalo-Pascual/Gonzalo-Pascual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
