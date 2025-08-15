@@ -6,7 +6,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/www.linkedin.com/in/gonzalo-pasr/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Gonzalo-Pascual)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gonzalo.pascualromero@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Check%20out%20my%20portfolio-%20%23007663)](https://gonzalo-pascual.github.io/)
 
 ### Im a professional software developer with a strong interest in continuous learning. I am constantly training in new technologies and tools to improve my skills, while staying up to date on relevant threats and industry trends.
 
