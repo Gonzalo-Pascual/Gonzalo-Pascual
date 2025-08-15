@@ -3,7 +3,7 @@
 <img width="2214" height="620" alt="Frame 8" src="https://github.com/user-attachments/assets/315ee78c-d1b9-4e4f-83c3-0818d37fa9c2" />
 
 <span></span>
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/www.linkedin.com/in/gonzalo-pasr/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/gonzalo-pasr/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Gonzalo-Pascual)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
 [![Static Badge](https://img.shields.io/badge/Check%20out%20my%20portfolio-%20%23007663)](https://gonzalo-pascual.github.io/)
