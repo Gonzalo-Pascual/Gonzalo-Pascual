@@ -55,7 +55,8 @@
   <a href="https://github.com/Gonzalo-Pascual/DAM/tree/main/TFG">
     <img src="https://github.com/user-attachments/assets/d9285552-a88e-4ca0-93cc-00e44c6c8699" width="400" style="margin: 20px 0;" alt="Guitarra Inglés">
   </a>
-
+  &emsp;
+  &emsp;
   <a href="https://github.com/Gonzalo-Pascual/DAM/tree/main/SGE/Odoo-GonzaloPascualRomero">
     <img src="https://github.com/user-attachments/assets/f00d1eb4-3beb-4a6e-9d6c-61949016e82e" width="400" style="margin: 20px 0;" alt="Odoo Inglés">
   </a>
@@ -67,7 +68,8 @@
   <a href="https://github.com/Gonzalo-Pascual/Ciberseguridad/tree/main/Hacking%20%C3%89tico/Pentesting">
     <img src="https://github.com/user-attachments/assets/c668c699-0e28-43b3-8440-644b6382f83d" width="400" style="margin: 20px 0;" alt="Hacking Ético">
   </a>
-
+  &emsp;
+  &emsp;
   <a href="https://github.com/Gonzalo-Pascual/Ciberseguridad/tree/main/Hacking%20%C3%89tico/Practicas">
     <img src="https://github.com/user-attachments/assets/b15be905-27fb-408c-a4cd-75fd78437002" width="400" style="margin: 20px 0;" alt="Atenea Inglés">
   </a>
