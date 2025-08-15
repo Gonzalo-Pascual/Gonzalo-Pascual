@@ -53,11 +53,11 @@
   <div style="flex: 1; min-width: 480px; text-align: center;">
   <h3>💻 Programming</h3>
   <a href="https://github.com/Gonzalo-Pascual/DAM/tree/main/TFG">
-    <img src="https://github.com/user-attachments/assets/d9285552-a88e-4ca0-93cc-00e44c6c8699" width="480" style="margin: 20px 0;" alt="Guitarra Inglés">
+    <img src="https://github.com/user-attachments/assets/d9285552-a88e-4ca0-93cc-00e44c6c8699" width="200" style="margin: 20px 0;" alt="Guitarra Inglés">
   </a>
 
   <a href="https://github.com/Gonzalo-Pascual/DAM/tree/main/SGE/Odoo-GonzaloPascualRomero">
-    <img src="https://github.com/user-attachments/assets/f00d1eb4-3beb-4a6e-9d6c-61949016e82e" width="480" style="margin: 20px 0;" alt="Odoo Inglés">
+    <img src="https://github.com/user-attachments/assets/f00d1eb4-3beb-4a6e-9d6c-61949016e82e" width="200" style="margin: 20px 0;" alt="Odoo Inglés">
   </a>
   </div>
 
@@ -65,11 +65,11 @@
   <div style="flex: 1; min-width: 480px; text-align: center;">
   <h3>🔐 Cybersecurity</h3>
   <a href="https://github.com/Gonzalo-Pascual/Ciberseguridad/tree/main/Hacking%20%C3%89tico/Pentesting">
-    <img src="https://github.com/user-attachments/assets/c668c699-0e28-43b3-8440-644b6382f83d" width="480" style="margin: 20px 0;" alt="Hacking Ético">
+    <img src="https://github.com/user-attachments/assets/c668c699-0e28-43b3-8440-644b6382f83d" width="200" style="margin: 20px 0;" alt="Hacking Ético">
   </a>
 
   <a href="https://github.com/Gonzalo-Pascual/Ciberseguridad/tree/main/Hacking%20%C3%89tico/Practicas">
-    <img src="https://github.com/user-attachments/assets/b15be905-27fb-408c-a4cd-75fd78437002" width="480" style="margin: 20px 0;" alt="Atenea Inglés">
+    <img src="https://github.com/user-attachments/assets/b15be905-27fb-408c-a4cd-75fd78437002" width="200" style="margin: 20px 0;" alt="Atenea Inglés">
   </a>
 </div>
 
