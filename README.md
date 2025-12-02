@@ -39,12 +39,6 @@
 
 
 
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzalo-Pascual&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="180">
-</p>
-
-
-
 ## Some proyects
 
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
