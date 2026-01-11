@@ -36,7 +36,7 @@
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 ![Static Badge](https://img.shields.io/badge/Burp%20Suite%20-%20orange)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=octocat&layout=compact)
 
 
 
